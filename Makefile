@@ -1,5 +1,5 @@
 tests:
 	python -m pytest
 
-dist:
+lib:
 	python setup.py sdist bdist_wheel

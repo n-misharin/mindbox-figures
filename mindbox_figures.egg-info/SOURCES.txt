@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+figures/__init__.py
+figures/circle.py
+figures/figure.py
+figures/triangle.py
+mindbox_figures.egg-info/PKG-INFO
+mindbox_figures.egg-info/SOURCES.txt
+mindbox_figures.egg-info/dependency_links.txt
+mindbox_figures.egg-info/top_level.txt
