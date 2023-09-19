@@ -12,6 +12,7 @@ setup(
     author="misharin.nd",
     author_email="misharinnikita@gmail.com",
     description="Тестовое задание",
+    url="https://github.com/n-misharin/mindbox-figures",
     long_description=readme(),
     long_description_content_type='text/markdown',
     packages=find_packages(),
@@ -21,5 +22,8 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent"
     ],
+    project_urls={
+        "GitHub": "https://github.com/n-misharin/mindbox-figures"
+    },
     python_requires='>=3.6'
 )
